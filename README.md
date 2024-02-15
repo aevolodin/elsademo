@@ -7,6 +7,7 @@ This is an example project that demonstrates using Elsa Workflow with ABP Framew
 1. dotnet tool install -g Volo.Abp.Cli
 2. dotnet tool update -g Volo.Abp.Cli
 3. abp install-libs
+4. cd src/ElsaDemo && npm i
 
 Create database ElsaDemo
 
